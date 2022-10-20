@@ -1,0 +1,365 @@
+﻿  physicsProject.cpp
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\matrix_calculations.h(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\matrix_calculations.h(16,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\matrix_calculations.h(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\matrix_calculations.h(26,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\matrix_calculations.h(29,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(47,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(52,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(58,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(76,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(76,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(84,1): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(85,1): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(86,1): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(89,1): warning C4244: '-=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(90,1): warning C4244: '-=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(91,1): warning C4244: '-=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(94,1): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(95,1): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(96,1): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(99,1): warning C4244: '-=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(100,1): warning C4244: '-=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(101,1): warning C4244: '-=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(105,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(108,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(113,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(116,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\softwareRenderer.h(136,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\axesFunction.h(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\axesFunction.h(32,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\axesFunction.h(34,56): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\axesFunction.h(46,57): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\axesFunction.h(46,87): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\axesFunction.h(48,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\axesFunction.h(50,30): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\axesFunction.h(51,27): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\axesFunction.h(52,27): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\axesFunction.h(53,27): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\axesFunction.h(55,59): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\axesFunction.h(55,89): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(7,11): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(9,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(30,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(33,44): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(34,34): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(35,34): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(44,30): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(44,66): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(45,30): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(45,66): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(46,30): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(46,66): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(49,30): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(49,66): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(50,30): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(50,66): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(51,30): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(51,66): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(92,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(97,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(99,56): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(132,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(136,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(140,63): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\voxelFunctions.h(140,97): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(84,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(87,38): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(88,28): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(89,28): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(98,24): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(98,52): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(99,24): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(99,52): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(100,24): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(100,52): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(103,24): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(103,52): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(104,24): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(104,52): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(105,24): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(105,52): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(109,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(134,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(139,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(141,56): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(180,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(185,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(187,56): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(198,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(201,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(203,32): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(203,85): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(203,142): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(203,199): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(205,61): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(205,91): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(206,65): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(206,99): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\classFunctions.h(220,20): warning C4018: '<': signed/unsigned mismatch
+  physicsProject.vcxproj -> C:\Users\theow\source\repos\physicsProject - Copy\Debug\physicsProject.exe
